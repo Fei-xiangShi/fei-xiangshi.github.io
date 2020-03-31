@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fei-xiangshi.github.io/dzkawayi</id>
     <title>有什么标题呢qwq</title>
-    <updated>2020-03-31T10:03:10.970Z</updated>
+    <updated>2020-03-31T10:05:25.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fei-xiangshi.github.io/dzkawayi"/>
     <link rel="self" href="https://fei-xiangshi.github.io/dzkawayi/atom.xml"/>
@@ -12,14 +12,14 @@
     <rights>All rights reserved 2020, 有什么标题呢qwq</rights>
     <entry>
         <title type="html"><![CDATA[Hello Friends]]></title>
-        <id>https://fei-xiangshi.github.io/dzkawayi/post/hello-gridea/</id>
-        <link href="https://fei-xiangshi.github.io/dzkawayi/post/hello-gridea/">
+        <id>https://fei-xiangshi.github.io/dzkawayi/post/hello-friends/</id>
+        <link href="https://fei-xiangshi.github.io/dzkawayi/post/hello-friends/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
+        <updated>2020-03-31T10:04:56.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://fei-xiangshi.github.io/dzkawayi/post-images/1585649082163.png" alt="" loading="lazy">👏  欢迎来到 <strong>这个小blog</strong> ！<br>
 ✍️  ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
+        <content type="html"><![CDATA[<p><img src="https://fei-xiangshi.github.io/dzkawayi/post-images/1585649082163.png" alt="" loading="lazy">👏  欢迎来到 <strong>这个小blog</strong> ！<br>
 ✍️  ...</p>
 <!-- more -->
 <p><a href="https://github.com/Fei-xiangShi/dzkawayi">先列着吧</a><br>
