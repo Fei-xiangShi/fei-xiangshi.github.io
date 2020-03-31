@@ -1,92 +1,58 @@
 <html>
   <head>
-    
-<meta charset="utf-8" >
-
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>有什么标题呢qwq</title>
-<meta name="description" content="我该写点啥呢">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://fei-xiangshi.github.io/dzkawayi/favicon.ico?v=1585647916348">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://fei-xiangshi.github.io/dzkawayi/favicon.ico?v=1585648336546">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://fei-xiangshi.github.io/dzkawayi/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="有什么标题呢qwq - Atom Feed" href="https://fei-xiangshi.github.io/dzkawayi/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
-
-
+  <meta name="description" content="我该写点啥呢" />
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://fei-xiangshi.github.io/dzkawayi">
-        <img class="avatar" src="https://fei-xiangshi.github.io/dzkawayi/images/avatar.png?v=1585647916348" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://fei-xiangshi.github.io/dzkawayi">
-        <h1 class="site-title">有什么标题呢qwq</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://fei-xiangshi.github.io/dzkawayi">
+  <img class="avatar" src="https://fei-xiangshi.github.io/dzkawayi/images/avatar.png?v=1585648336546" alt="">
+  </a>
+  <h1 class="site-title">
+    有什么标题呢qwq
+  </h1>
+  <p class="site-description">
+    我该写点啥呢
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
   </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-        <div class="content-container">
-          
-          <div class="tags-container">
-            
-              <a class="tag" href="https://fei-xiangshi.github.io/dzkawayi/tag/h8cvVyvqx/">Gridea</a>
-            
-          </div>
-
-        </div>
-
-        <div class="site-footer">
-  <div class="slogan">我该写点啥呢</div>
   <div class="social-container">
     
       
@@ -100,27 +66,23 @@
       
     
   </div>
-  Powered by <a href="https://user.qzone.qq.com/595834560/infocenter" target="_blank">Fei_xiangShi</a> | <a class="rss" href="https://fei-xiangshi.github.io/dzkawayi/atom.xml" target="_blank">RSS</a>
 </div>
 
 
+        <div class="tags-container">
+          
+            <a class="tag" href="https://fei-xiangshi.github.io/dzkawayi/tag/h8cvVyvqx/">Gridea</a>
+          
+        </div>
+
+        <div class="site-footer">
+  Powered by <a href="https://user.qzone.qq.com/595834560/infocenter" target="_blank">Fei_xiangShi</a>
+  <a class="rss" href="https://fei-xiangshi.github.io/dzkawayi/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
       </div>
-      <script type="application/javascript">
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-
-
-
-
     </div>
   </body>
 </html>
