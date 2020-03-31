@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fei-xiangshi.github.io/dzkawayi</id>
+    <id>https://Fei_xiangShi.github.io</id>
     <title>有什么标题呢qwq</title>
-    <updated>2020-03-31T10:32:25.481Z</updated>
+    <updated>2020-03-31T10:33:32.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fei-xiangshi.github.io/dzkawayi"/>
-    <link rel="self" href="https://fei-xiangshi.github.io/dzkawayi/atom.xml"/>
+    <link rel="alternate" href="https://Fei_xiangShi.github.io"/>
+    <link rel="self" href="https://Fei_xiangShi.github.io/atom.xml"/>
     <subtitle>我该写点啥呢</subtitle>
-    <logo>https://fei-xiangshi.github.io/dzkawayi/images/avatar.png</logo>
-    <icon>https://fei-xiangshi.github.io/dzkawayi/favicon.ico</icon>
+    <logo>https://Fei_xiangShi.github.io/images/avatar.png</logo>
+    <icon>https://Fei_xiangShi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 有什么标题呢qwq</rights>
     <entry>
         <title type="html"><![CDATA[Hello Friends]]></title>
-        <id>https://fei-xiangshi.github.io/dzkawayi/post/hello-friends/</id>
-        <link href="https://fei-xiangshi.github.io/dzkawayi/post/hello-friends/">
+        <id>https://Fei_xiangShi.github.io/post/hello-friends/</id>
+        <link href="https://Fei_xiangShi.github.io/post/hello-friends/">
         </link>
         <updated>2020-03-31T10:04:56.000Z</updated>
         <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
