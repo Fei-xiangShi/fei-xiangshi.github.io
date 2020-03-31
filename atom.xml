@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fei-xiangShi.github.io</id>
     <title>有什么标题呢qwq</title>
-    <updated>2020-03-31T11:04:28.141Z</updated>
+    <updated>2020-03-31T11:07:40.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fei-xiangShi.github.io"/>
     <link rel="self" href="https://Fei-xiangShi.github.io/atom.xml"/>
@@ -16,13 +16,16 @@
         <link href="https://Fei-xiangShi.github.io/post/hello-friends/">
         </link>
         <updated>2020-03-31T10:04:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
+✍️  ...</p>
+]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
 ✍️  ...</p>
-<!-- more -->!
+<!-- more -->
 <p><a href="https://github.com/Fei-xiangShi/dzkawayi">先列着吧</a><br>
 <a href="1">先列着吧</a><br>
 <a href="1">先列着吧</a></p>
-<h2 id="这都要写些啥啊">这都要写些啥啊</h2>
+<p>这都要写些啥啊</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
