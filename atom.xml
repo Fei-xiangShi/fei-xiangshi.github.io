@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fei-xiangShi.github.io</id>
     <title>飞翔使的自留地</title>
-    <updated>2020-04-01T01:55:39.792Z</updated>
+    <updated>2020-04-01T01:57:44.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fei-xiangShi.github.io"/>
     <link rel="self" href="https://Fei-xiangShi.github.io/atom.xml"/>
@@ -11,27 +11,16 @@
     <icon>https://Fei-xiangShi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 飞翔使的自留地</rights>
     <entry>
-        <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://Fei-xiangShi.github.io/post/guan-yu-ben-zhan/</id>
-        <link href="https://Fei-xiangShi.github.io/post/guan-yu-ben-zhan/">
-        </link>
-        <updated>2020-04-01T01:43:11.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一个上网课无聊还不认真听课的沙雕乱搞出来的一个博客🙁<br>
-这个博客啥也没有，也不会更新啥高端的东西（<s>也许以后会有？</s>）<br>
-不管了我要去上课了（又水了）</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello Friends]]></title>
         <id>https://Fei-xiangShi.github.io/post/hello-friends/</id>
         <link href="https://Fei-xiangShi.github.io/post/hello-friends/">
         </link>
         <updated>2020-03-31T10:04:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
-✍️  这里也没什么</p>
+        <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
-✍️  这里也没什么</p>
+        <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！</p>
+<!-- more -->
+<p>✍️  这里也没什么</p>
 <!-- more -->
 <p><a href="https://github.com/Fei-xiangShi/dzkawayi">这是我的github</a></p>
 <!-- more -->
