@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fei-xiangShi.github.io</id>
-    <title>有什么标题呢qwq</title>
-    <updated>2020-04-01T01:39:40.586Z</updated>
+    <title>飞翔使的自留地</title>
+    <updated>2020-04-01T01:51:32.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fei-xiangShi.github.io"/>
     <link rel="self" href="https://Fei-xiangShi.github.io/atom.xml"/>
-    <subtitle>我该写点啥呢</subtitle>
+    <subtitle>飞翔使个人博客</subtitle>
     <logo>https://Fei-xiangShi.github.io/images/avatar.png</logo>
     <icon>https://Fei-xiangShi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 有什么标题呢qwq</rights>
+    <rights>All rights reserved 2020, 飞翔使的自留地</rights>
     <entry>
         <title type="html"><![CDATA[Hello Friends]]></title>
         <id>https://Fei-xiangShi.github.io/post/hello-friends/</id>
@@ -17,15 +17,17 @@
         </link>
         <updated>2020-03-31T10:04:56.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
-✍️  ...</p>
+✍️  这里也没什么</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎来到 <strong>这个小blog</strong> ！<br>
-✍️  ...</p>
+✍️  这里也没什么</p>
 <!-- more -->
-<p><a href="https://github.com/Fei-xiangShi/dzkawayi">这是我的github</a><br>
-<a href="1">先列着吧</a><br>
-<a href="1">先列着吧</a></p>
-<p>这都要写些啥啊</p>
+<p><a href="https://github.com/Fei-xiangShi/dzkawayi">这是我的github</a></p>
+<!-- more -->
+<p>这是用github搭建的一个博客<br>
+因为未满18啊---备案啥的麻烦死了<br>
+以后应该会用typecho做一个好一点的吧（上大学后）<br>
+暂时就这样吧也没啥东西</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
