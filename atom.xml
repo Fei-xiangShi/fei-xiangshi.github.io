@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Fei-xiangShi.github.io</id>
     <title>飞翔使的自留地</title>
-    <updated>2020-04-01T11:00:32.809Z</updated>
+    <updated>2020-04-01T12:09:44.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Fei-xiangShi.github.io"/>
     <link rel="self" href="https://Fei-xiangShi.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://Fei-xiangShi.github.io/images/avatar.png</logo>
     <icon>https://Fei-xiangShi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 飞翔使的自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[当你心情不好的时候]]></title>
+        <id>https://Fei-xiangShi.github.io/post/dang-ni-xin-qing-bu-hao-de-shi-hou/</id>
+        <link href="https://Fei-xiangShi.github.io/post/dang-ni-xin-qing-bu-hao-de-shi-hou/">
+        </link>
+        <updated>2020-04-03T12:05:27.000Z</updated>
+        <content type="html"><![CDATA[<p>当你心情不好的时候，为什么不出去走一走？<br>
+　　也许和许多陌生人擦身而过，<br>
+　　也许你会找到一点意外的温柔。<br>
+　　当你心情不好的时候，为什么不让自己换个方式过活？<br>
+　　也许听到许多不同的声音，也许你会得到一点意外的收获。<br>
+　　曾经走过的，就不必再回头。<br>
+　　曾经拥有的，也不必怕失落。<br>
+　　抬头是星光灿烂的天空<br>
+　　脚下是各种方向的轨道<br>
+　　我们只是宇宙上打转的星球<br>
+　　在每个可能相遇的时候分手<br>
+　　在每个可能远离的时候回头<br>
+　　当你心情不好的时候，为什么不出去走一走？<br>
+　　阳光的道路会越来越温暧<br>
+　　你的心会被风吹的膨胀<br>
+　　当你心情不好的时候，为什么不让自己换个方式过活？<br>
+　　狭窄的空间会越来越开阔<br>
+　　你的心灵会得到舒展</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无题]]></title>
+        <id>https://Fei-xiangShi.github.io/post/wu-ti/</id>
+        <link href="https://Fei-xiangShi.github.io/post/wu-ti/">
+        </link>
+        <updated>2020-04-02T12:08:09.000Z</updated>
+        <content type="html"><![CDATA[<p>有时候放弃也是一种美.可是在现实生活中.有谁能真的能做到这一点呢.不是所有的人能说放弃就能放弃的.在感情方面这是一种多么的牺牲啊.对人的内心是多么大的打击与人生的挫折.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有在开玩笑，愚人节不是这么过的]]></title>
         <id>https://Fei-xiangShi.github.io/post/mei-you-zai-kai-wan-xiao-yu-ren-jie-bu-shi-zhe-me-guo-de/</id>
